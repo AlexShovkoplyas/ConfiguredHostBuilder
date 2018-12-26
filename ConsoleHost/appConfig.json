@@ -1,0 +1,11 @@
+{
+  "person": {
+    "firstName": "Alex",
+    "lastName": "Shovkoplyas"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information"
+    }
+  }
+}
